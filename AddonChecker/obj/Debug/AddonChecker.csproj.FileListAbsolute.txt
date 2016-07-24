@@ -1,0 +1,1 @@
+C:\Works\C#\AddonChecker\AddonChecker\bin\Debug\AddonChecker.exe.config
