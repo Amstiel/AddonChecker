@@ -1,1 +1,9 @@
 C:\Works\C#\AddonChecker\AddonChecker\bin\Debug\AddonChecker.exe.config
+C:\Works\C#\AddonChecker\AddonChecker\bin\Debug\AddonChecker.exe
+C:\Works\C#\AddonChecker\AddonChecker\bin\Debug\AddonChecker.pdb
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.csprojResolveAssemblyReference.cache
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.MainForm.resources
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.Properties.Resources.resources
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.csproj.GenerateResource.Cache
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.exe
+C:\Works\C#\AddonChecker\AddonChecker\obj\Debug\AddonChecker.pdb
